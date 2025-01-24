@@ -14,4 +14,3 @@ const profile = {
     followers: 132,
     following: 123,
 };
-console.log(profile);
